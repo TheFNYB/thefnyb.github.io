@@ -7,7 +7,7 @@ body
 	{
  		background: #575757;
  		color: #ffffff;
-		font-family: ltc-bodoni-175, serif;
+		font-family: le-monde-livre-std, serif;
 		font-weight: 300;
 		overflow-x: hidden; /* prevent horizontal scrollbar from appearing */
 	}

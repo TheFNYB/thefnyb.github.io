@@ -7,7 +7,7 @@ body
 	{
  		background: #575757;
  		color: #ffffff;
-		font-family: 'georgia', sans-serif;
+		font-family: ltc-bodoni-175, serif;
 		font-weight: 300;
 		overflow-x: hidden; /* prevent horizontal scrollbar from appearing */
 	}
